@@ -1,0 +1,8 @@
+"use strict";
+
+var _support_code_library_builder = _interopRequireDefault(require("cucumber/lib/support_code_library_builder"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+_support_code_library_builder.default.reset(process.cwd());
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbml0LnRzIl0sIm5hbWVzIjpbInN1cHBvcnRDb2RlTGlicmFyeUJ1aWxkZXIiLCJyZXNldCIsInByb2Nlc3MiLCJjd2QiXSwibWFwcGluZ3MiOiI7O0FBQUE7Ozs7QUFFQUEsc0NBQTBCQyxLQUExQixDQUFnQ0MsT0FBTyxDQUFDQyxHQUFSLEVBQWhDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgZGVmYXVsdCBhcyBzdXBwb3J0Q29kZUxpYnJhcnlCdWlsZGVyIH0gZnJvbSAnY3VjdW1iZXIvbGliL3N1cHBvcnRfY29kZV9saWJyYXJ5X2J1aWxkZXInO1xuXG5zdXBwb3J0Q29kZUxpYnJhcnlCdWlsZGVyLnJlc2V0KHByb2Nlc3MuY3dkKCkpO1xuIl19
